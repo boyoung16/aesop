@@ -1179,6 +1179,10 @@ label:nth-child(1){
     .s6_p_br{
         display: none;
     }
+
+    .s6_txt h2{
+        font-size: 24px;
+    }
 }
 
 /* section_6 end */
